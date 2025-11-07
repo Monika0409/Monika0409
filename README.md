@@ -20,10 +20,8 @@
 
 ## 💼 Internship  
 <p align="center">
-  <img src="https://img.icons8.com/color/96/spa-flower.png" width="80"/>
+  <img src="https://img.icons8.com/color/96/hospital-room.png" width="80"/>
 </p>
-
-
 
 ### 🩺 Frontend Developer Intern @ **Therayu**  
 🗓️ *May 2025 – October 2025*  
