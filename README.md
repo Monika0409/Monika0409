@@ -1,67 +1,97 @@
-# Hi, I'm NAME 👋
-
-> ROLE — one-line summary about what you do.
-
-[![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-## 🔭 About Me
-A short bio — who you are, what you build, what technologies you use, and what you're learning right now.
-
-**Example:**  
-I’m NAME, a Full Stack / MERN / Data Engineer / Student based in CITY. I enjoy building modern web apps and solving algorithmic problems. Currently learning: _next-level-topic_.
-
----
-
-## 🛠️ Skills
-- **Languages:** JavaScript, TypeScript, Python, Java  
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend / DB:** Node.js, Express, MongoDB, PostgreSQL  
-- **Tools:** Git, Docker, VS Code, Jest
-
-*(Replace with your own tech stack — keep short)*
-
----
-
-## 🧾 Featured Projects
-### [Project One — repo-name](https://github.com/YOUR_GITHUB_USERNAME/REPO-NAME)
-Short 1–2 line description of what it does and what tech you used.
-
-### [Project Two — repo-name](https://github.com/YOUR_GITHUB_USERNAME/REPO-NAME)
-Short 1–2 line description.
-
-*(Add or remove projects as you like — include links to repos/demo)*
-
----
-
-## 📈 GitHub Stats
-
-<!-- GitHub Readme Stats (optional) -->
-<p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img alt="NAME's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
-  </a>
+<!-- Header GIF / Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Monika+Mali;Full+Stack+Developer+%7C+Software+Developer;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
-*(If you want these images to appear, enable GitHub Pages or just keep them — they work publicly without any extra config.)*
+---
+
+## 🚀 About Me  
+🎓 B.Tech in *Information Technology* | 💻 Full Stack Developer | 🤖 Exploring AI-powered Web Apps  
+
+- 🔭 I’m currently working on *MERN Stack + AI-based projects*  
+- 🌱 I’m learning *Spring Boot, scalable APIs, and AI integrations*  
+- 👯 I’m looking to collaborate on *Web Development and Open Source Projects*  
+- 💬 Ask me about *React.js, Node.js, Java, Databases, or Python*  
+- ⚡ Fun fact: I enjoy building creative and user-friendly interfaces 🎨  
 
 ---
 
-## 📫 Contact
-- Email: your.email@example.com  
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/  
-- Twitter: https://twitter.com/YOUR_HANDLE  
+## 📫 Connect with Me  
+<p align="left">
+  <a href="mailto:monikamali8263@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/monika-mali0409/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Monika0409"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://portfolio-mali-monikas-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
-One fun line about you (pets, favorite language, hobby).
+## 🛠 Tech Stack  
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
 ---
 
-> Last updated: <!--DATE-->
+## 📌 Featured Projects  
+<details>
+  <summary>🎓 SkillHub – Ed-Tech Platform</summary>
+  A full-stack education platform built using *MERN stack*, featuring user authentication, course management, and progress tracking.  
+  🔗 [GitHub Repo](https://github.com/Monika0409/LMS_FullStack)
+</details>
+
+<details>
+  <summary>💬 ChatBotX – AI-Powered Chat App</summary>
+  Real-time chat application integrated with *Google Gemini AI* using MERN stack.  
+  🔗 [GitHub Repo](https://github.com/Monika0409/Chat_App)
+</details>
+
+<details>
+  <summary>⌨️ Master Typing – Python App</summary>
+  Typing practice desktop app with progress visualization, speed tracking, and error analysis.  
+  🔗 [GitHub Repo](https://github.com/Monika0409/python_project)
+</details>
+
+<details>
+  <summary>🌐 Portfolio Website</summary>
+  Personal portfolio to showcase projects, skills, and experience using *React + TailwindCSS*.  
+  🔗 [Live Portfolio](https://portfolio-mali-monikas-projects.vercel.app/)
+</details>
+
+---
+
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Monika0409&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Monika0409&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monika0409&layout=compact&theme=radical" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monika0409&theme=radical" height="180em" />
+</p>
+
+---
+
+## 👀 Visitors  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Monika0409&style=for-the-badge&color=blue" />
+</p>
