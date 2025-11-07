@@ -6,13 +6,30 @@
 ---
 
 ## 🚀 About Me  
-🎓 B.Tech in *Information Technology* | 💻 Passionate Full Stack Developer | 🌱 Lifelong Learner  
+🎓 B.Tech in *Information Technology* | 💻 Passionate Full Stack Developer | 💻 Software Developer |🌱 Lifelong Learner  
 
-- 🔭 Currently working on *MERN Stack + AI-powered web apps*  
-- 🌱 Exploring *Spring Boot*, *Cloud Deployment*, and *AI Integrations*  
-- 💬 Ask me about *React.js, Node.js, Java, Databases, or Python*  
-- 👯 Open to collaborating on *Open Source & Innovative Web Projects*  
-- ⚡ Fun fact: I love turning creative ideas into interactive digital experiences 🎨  
+- 💻 Passionate about building dynamic and user-focused web applications using the **MERN stack**.  
+- 🌱 Currently enhancing my skills in *Backend Development*, *Spring Boot*, and *AI integration*.  
+- 🧠 Interested in combining technology and creativity to craft impactful digital solutions.  
+- 👯 Open to *internships* and collaborating on *Open Source & Innovative Web Projects*.  
+- 💬 Love exploring *React.js, Node.js, Java, Python,* and *modern web technologies*.
+- 💬 Always excited to discuss *Web Development, UI/UX, APIs,* and *real-world tech solutions*.  
+- ⚡ Fun fact: I enjoy transforming complex ideas into simple and interactive user experiences 🎨   
+
+---
+
+## 💼 Internship  
+<p align="center">
+  <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/null/external-healthcare-healthcare-and-medical-flatart-icons-flat-flatarticons.png" width="80"/>
+</p>
+
+### 🩺 Frontend Developer Intern @ **Therayu**  
+🗓️ *May 2025 – October 2025*  
+🌐 A digital healthcare platform integrating **Ayurveda, Physiotherapy, and Yoga**  
+
+- Built responsive UI components with **React.js**, **Tailwind CSS**, and **JavaScript**  
+- Worked on optimizing UI/UX for smooth cross-browser performance  
+- Collaborated with backend team to integrate APIs and improve platform scalability  
 
 ---
 
