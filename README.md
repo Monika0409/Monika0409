@@ -1,25 +1,25 @@
-<!-- Header GIF / Banner -->
+<!-- 🌟 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Monika+Mali;Full+Stack+Developer+%7C+Software+Developer;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Monika+Mali;Full+Stack+Developer+💻+|+Software+Developer;Exploring+AI+and+Modern+Web+Tech!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-🎓 B.Tech in *Information Technology* | 💻 Full Stack Developer | 🤖 Exploring AI-powered Web Apps  
+🎓 B.Tech in *Information Technology* | 💻 Passionate Full Stack Developer | 🌱 Lifelong Learner  
 
-- 🔭 I’m currently working on *MERN Stack + AI-based projects*  
-- 🌱 I’m learning *Spring Boot, scalable APIs, and AI integrations*  
-- 👯 I’m looking to collaborate on *Web Development and Open Source Projects*  
+- 🔭 Currently working on *MERN Stack + AI-powered web apps*  
+- 🌱 Exploring *Spring Boot*, *Cloud Deployment*, and *AI Integrations*  
 - 💬 Ask me about *React.js, Node.js, Java, Databases, or Python*  
-- ⚡ Fun fact: I enjoy building creative and user-friendly interfaces 🎨  
+- 👯 Open to collaborating on *Open Source & Innovative Web Projects*  
+- ⚡ Fun fact: I love turning creative ideas into interactive digital experiences 🎨  
 
 ---
 
 ## 📫 Connect with Me  
-<p align="left">
-  <a href="mailto:monikamali8263@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/monika-mali0409/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="mailto:monikamali8263@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/monika-mali0409/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Monika0409"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://portfolio-mali-monikas-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
@@ -27,7 +27,7 @@
 ---
 
 ## 🛠 Tech Stack  
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -46,27 +46,28 @@
 ---
 
 ## 📌 Featured Projects  
+
 <details>
-  <summary>🎓 SkillHub – Ed-Tech Platform</summary>
-  A full-stack education platform built using *MERN stack*, featuring user authentication, course management, and progress tracking.  
+  <summary>🎓 <b>SkillHub – Ed-Tech Platform</b></summary>
+  A full-stack learning platform built using *MERN stack*, featuring user authentication, course creation, and progress tracking.  
   🔗 [GitHub Repo](https://github.com/Monika0409/LMS_FullStack)
 </details>
 
 <details>
-  <summary>💬 ChatBotX – AI-Powered Chat App</summary>
+  <summary>💬 <b>ChatBotX – AI-Powered Chat App</b></summary>
   Real-time chat application integrated with *Google Gemini AI* using MERN stack.  
   🔗 [GitHub Repo](https://github.com/Monika0409/Chat_App)
 </details>
 
 <details>
-  <summary>⌨️ Master Typing – Python App</summary>
-  Typing practice desktop app with progress visualization, speed tracking, and error analysis.  
+  <summary>⌨️ <b>Master Typing – Python Desktop App</b></summary>
+  Typing practice app built with Python and Tkinter. Includes speed tracking and progress visualization.  
   🔗 [GitHub Repo](https://github.com/Monika0409/python_project)
 </details>
 
 <details>
-  <summary>🌐 Portfolio Website</summary>
-  Personal portfolio to showcase projects, skills, and experience using *React + TailwindCSS*.  
+  <summary>🌐 <b>Portfolio Website</b></summary>
+  Personal portfolio showcasing my projects, skills, and achievements.  
   🔗 [Live Portfolio](https://portfolio-mali-monikas-projects.vercel.app/)
 </details>
 
@@ -74,24 +75,24 @@
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Monika0409&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Monika0409&theme=dracula&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monika0409&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monika0409&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Monika0409&show_icons=true&theme=dracula" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monika0409&layout=compact&theme=dracula" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monika0409&theme=radical" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monika0409&theme=dracula" height="180em" />
 </p>
 
 ---
 
 ## 👀 Visitors  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Monika0409&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Monika0409&style=for-the-badge&color=blueviolet" />
 </p>
