@@ -20,8 +20,9 @@
 
 ## 💼 Internship  
 <p align="center">
-  <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/null/external-healthcare-healthcare-and-medical-flatart-icons-flat-flatarticons.png" width="80"/>
+  <img src="https://img.icons8.com/color/96/heart-with-pulse--v1.png" width="80"/>
 </p>
+
 
 ### 🩺 Frontend Developer Intern @ **Therayu**  
 🗓️ *May 2025 – October 2025*  
